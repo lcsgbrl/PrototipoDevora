@@ -1,0 +1,10 @@
+{
+  "description": "Manage and organize room reservations, member information, and environment availability with a professional, user-friendly administrative system.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
